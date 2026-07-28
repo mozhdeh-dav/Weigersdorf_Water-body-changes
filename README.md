@@ -2,7 +2,7 @@
 
 A historical GIS analysis comparing small water bodies (ponds and lakes) visible on a 1930 topographic survey with their present-day condition, using manual digitizing, georeferencing, and spatial classification in QGIS.
 
-![Map preview](map/weigersdorf_lake_change_map.png)
+![Map preview](map/weigersdorf_lake_change_map.png.png)
 
 ## Overview
 
@@ -53,7 +53,7 @@ This pattern is broadly consistent with documented land-use trends across simila
 │   ├── weigersdorf_1930_georeferenced.tif   # Georeferenced historic map scan
 │   └── lakes.gpkg                           # Digitized water body polygons with status attribute
 ├── map/
-│   └── weigersdorf_lake_change_map.png      # Final layout export
+│   └── weigersdorf_lake_change_map.png.png      # Final layout export
 └── README.md
 ```
 
